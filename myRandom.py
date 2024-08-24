@@ -1,6 +1,6 @@
 import numpy as np
 
-r  = np.random.random((20,20))
+r  = np.random.random((30,30))
 
 
 
